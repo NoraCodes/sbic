@@ -1,0 +1,6 @@
+# A simple program that emits its input as its output
+source = ",[.>,]"
+# Some input
+input = [1, 2, 3, 4, 5, 4, 3, 2, 1]
+# If you don't provide a maximum runtime, the program can run forever.
+max_runtime = 128
