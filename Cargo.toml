@@ -3,7 +3,7 @@ authors = ["SilverWingedSeraph <lfstindall@gmail.com>"]
 name = "sbic"
 version = "0.1.0"
 [dependencies]
-sbrain = "^0.2"
+sbrain = "^0.4"
 serde = "^1"
 serde_derive = "^1"
 toml = "^0.4"
